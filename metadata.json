@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Banner Generator with Gemini",
+  "description": "Generates a professional LinkedIn background banner based on the content.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
